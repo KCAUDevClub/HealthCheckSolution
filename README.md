@@ -1,1 +1,1 @@
-# HealthCheckSolution
+# Health Check Solution
